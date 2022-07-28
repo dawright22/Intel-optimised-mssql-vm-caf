@@ -1,1 +1,1 @@
-This creates a CAF desing based on 108-mssql-vm
+This creates a CAF design based on 108-mssql-vm
